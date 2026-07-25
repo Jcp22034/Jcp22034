@@ -1,5 +1,7 @@
 # 💫 About Me:
-I write code sometimes, some of it ends up here!<br><br>🔭 I'm currently working on A web-based user tracking/mapper app<br>🌱 I'm currently learning TypeScript, JavaScript, React, NextJS
+I write code sometimes, some of it ends up here!<br><br>
+🔭 I'm currently working on a web-based user tracking/mapper app & a Dead by Daylight Discord bot<br>
+🌱 I'm currently learning TypeScript, JavaScript, Websockets
 
 
 # 💻 Tech Stack:
